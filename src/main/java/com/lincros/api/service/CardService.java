@@ -1,4 +1,4 @@
-package com.cidade.api.service;
+package com.lincros.api.service;
 
 import org.springframework.stereotype.Component;
 

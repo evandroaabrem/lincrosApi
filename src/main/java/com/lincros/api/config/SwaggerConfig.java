@@ -1,4 +1,4 @@
-package com.cidade.api.config;
+package com.lincros.api.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

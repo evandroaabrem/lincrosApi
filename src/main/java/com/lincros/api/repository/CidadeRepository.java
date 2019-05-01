@@ -1,9 +1,9 @@
-package com.cidade.api.repository;
+package com.lincros.api.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.cidade.api.entity.Cidade;
+import com.lincros.api.entity.Cidade;
 
 
 @Repository

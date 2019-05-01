@@ -1,4 +1,4 @@
-package com.card;
+package com.lincros;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.cidade.api.entity;
+package com.lincros.api.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

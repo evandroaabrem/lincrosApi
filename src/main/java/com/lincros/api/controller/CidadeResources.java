@@ -1,4 +1,4 @@
-package com.cidade.api.controller;
+package com.lincros.api.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -23,8 +23,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.cidade.api.entity.Cidade;
-import com.cidade.api.repository.CidadeRepository;
+import com.lincros.api.entity.Cidade;
+import com.lincros.api.repository.CidadeRepository;
 
 @CrossOrigin(origins  = "*")
 @RestController

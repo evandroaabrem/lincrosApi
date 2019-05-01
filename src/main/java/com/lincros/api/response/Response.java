@@ -1,4 +1,4 @@
-package com.cidade.api.response;
+package com.lincros.api.response;
 
 import java.util.ArrayList;
 import java.util.List;

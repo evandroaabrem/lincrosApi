@@ -1,8 +1,8 @@
-package com.cidade.api.service.impl;
+package com.lincros.api.service.impl;
 
 import org.springframework.stereotype.Component;
 
-import com.cidade.api.service.CardService;
+import com.lincros.api.service.CardService;
 
 @Component
 public class CardServiceImpl implements CardService {
