@@ -59,7 +59,6 @@ public class CidadeResources {
 	public ResponseEntity<Cidade> adicionarCidade(@Valid @RequestBody Cidade cidade) {
 		try {
 			cidadeRepository.save(cidade);
-			System.out.println("safassd");
 		} catch (Exception e) {			
 			throw new ResponseStatusException(HttpStatus.BAD_REQUEST, e.getMessage().toString());
 
