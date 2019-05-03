@@ -1,4 +1,0 @@
-mvn clean package
-
-localhost:8080/apicard/api/cadastro/findCartaoAll
-localhost:8082/api/cadastro/findCartaoAll
